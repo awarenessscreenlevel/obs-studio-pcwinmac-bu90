@@ -1,4 +1,4 @@
-# 
+# 新 OBS Studio 模板 Mac OS版 | 即时 OBS Studio 模板 PC Windows版。集成 转场效果 和 动态图形，跨平台性能最大化。
 
 
 
